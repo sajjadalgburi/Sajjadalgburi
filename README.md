@@ -22,7 +22,7 @@ I'm a passionate Full Stack Engineer with a focus on building AI-powered applica
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,tailwind,prisma,supabase,mongodb,postgres,firebase,graphql,jest,vitest,git,github,aws,html,css" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,fastapi,tailwind,mongodb,postgres,graphql,supabase,firebase,gcp,cloudflare,vercel,git,github,html,css" alt="Tech stack icons" />
 </p>
 
 ---
