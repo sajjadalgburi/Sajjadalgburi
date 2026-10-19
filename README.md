@@ -15,9 +15,9 @@
 
 ## About Me
 
-I'm a Full-Stack Engineer at Magic Hour AI. I build responsive React and Next.js interfaces, TypeScript backend APIs and authenticated server actions, generative image and video integrations, and credit-based billing with Stripe. I focus on reliable workflows through shared validation, asset ownership checks, state restoration, and regression testing.
+I'm a Full-Stack Engineer at Magic Hour AI. I build React and Next.js creation workflows, TypeScript APIs and authenticated server actions, generative image and video integrations, and Stripe billing. My work connects API cost estimates to signup, checkout, and subscription management, and restores saved inputs and settings so users can retry failed or canceled media projects.
 
-Previously, as a Prototyping Intern at Magic Hour AI, I prototyped AI image/video workflows with Python, ComfyUI, and GPU-backed Jupyter/Colab, and automated experiments with Python and n8n. My freelance work on Upwork included responsive web products and backend integrations.
+Previously, as a Prototyping Intern at Magic Hour AI, I prototyped AI image/video workflows with Python, ComfyUI, and GPU-backed Jupyter/Colab, and automated experiments with Python and n8n. I also delivered 4 client web projects with responsive interfaces and backend integrations through Upwork.
 
 My projects include Outreach AI, Interview Pal, and Jobshot Manager.
 
