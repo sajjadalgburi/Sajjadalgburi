@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sajjad Algburi 👋</h1>
 
 <h3 align="center">
-  Software Engineer focused on AI products, full-stack web development, and modern frontend systems.
+  Full-Stack Engineer at Magic Hour AI building AI-powered media products with React, Next.js, and TypeScript.
 </h3>
 
 <p align="center">
@@ -15,7 +15,11 @@
 
 ## About Me
 
-I'm a passionate Full Stack Engineer with a focus on building AI-powered applications that solve real-world problems. I specialize in turning ideas into scalable, reliable, and user-friendly products that people actually enjoy using.
+I'm a Full-Stack Engineer at Magic Hour AI. I build responsive React and Next.js interfaces, TypeScript backend APIs and authenticated server actions, generative image and video integrations, and credit-based billing with Stripe. I focus on reliable workflows through shared validation, asset ownership checks, state restoration, and regression testing.
+
+Previously, as a Prototyping Intern at Magic Hour AI, I prototyped AI image/video workflows with Python, ComfyUI, and GPU-backed Jupyter/Colab, and automated experiments with Python and n8n. My freelance work on Upwork included responsive web products and backend integrations.
+
+My projects include Juice.gg Admin Case Builder, Outreach AI, Interview Pal, and Jobshot Manager.
 
 ---
 
