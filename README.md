@@ -11,13 +11,9 @@
   <a href="https://github.com/Sajjadalgburi" target="_blank" rel="noopener noreferrer">GitHub</a>
 </p>
 
----
-
 ## About Me
 
 Full-stack engineer building AI-powered web products with TypeScript, React, and Next.js, spanning user interfaces, backend APIs, model integrations, and billing.
-
----
 
 ## Tech Stack
 
