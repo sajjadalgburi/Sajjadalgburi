@@ -19,8 +19,6 @@ I'm a Full-Stack Engineer at Magic Hour AI. I build React and Next.js creation w
 
 Previously, as a Prototyping Intern at Magic Hour AI, I prototyped AI image/video workflows with Python, ComfyUI, and GPU-backed Jupyter/Colab, and automated experiments with Python and n8n. I also delivered 4 client web projects with responsive interfaces and backend integrations through Upwork.
 
-My projects include WebGen, Outreach AI, Interview Pal, and Jobshot Manager.
-
 ---
 
 ## Tech Stack
