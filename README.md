@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sajjad Algburi 👋</h1>
 
 <h3 align="center">
-  Full-Stack Engineer at Magic Hour AI building AI-powered media products with React, Next.js, and TypeScript.
+  Full-Stack Engineer at building AI-powered media products with React, Next.js, and TypeScript.
 </h3>
 
 <p align="center">
